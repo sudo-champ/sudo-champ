@@ -75,7 +75,7 @@ I am a Mobile App  Developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ---
 
-### 🙇‍♂️: Pronoun and Tools :
+### 🙇‍♂️: Pronoun:
 - 😄 Pronouns: He/Him
 
 
